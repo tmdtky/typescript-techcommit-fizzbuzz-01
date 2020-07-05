@@ -2,8 +2,8 @@
 
 ## 実行環境
 
-Node.js v14.5.0
-TypeScript v3.9.6
+- Node.js v14.5.0
+- TypeScript v3.9.6
 
 ## 実行結果
 
